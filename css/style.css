@@ -1,0 +1,27 @@
+ h1{
+
+    text-align: center;
+    color:red;
+    padding-top: 300px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+
+    text-align: center;
+}
+
+h2{
+    color:blue;
+    text-decoration-line: underline ;
+    font-family:  monospace;
+
+}
+
+in{
+    border-style: inset;
+
+}
+button:hover{
+    background-color: blue;
+    color:red;
+}
